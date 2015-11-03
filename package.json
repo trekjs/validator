@@ -1,0 +1,12 @@
+{
+  "name": "trek-validator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "trekjs/validator",
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT"
+}
